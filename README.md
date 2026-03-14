@@ -81,7 +81,7 @@
 Here are some certificates I’ve earned:
 
 <p align="center">
-  <img src="Certificate/Java_certificate.png" alt="Java Certificate" width="300" />
+  <img src="Certificate/java.png" alt="Java Certificate" width="300" />
   <img src="Certificate/techo.jpg" alt="Techo Scholarship" width="300" />
   <br><br>
   <img src="Certificate/php.png" alt="PHP Certificate" width="300" />
