@@ -85,9 +85,13 @@ Here are some certificates I’ve earned:
   <img src="Certificate/techo.jpg" alt="Techo Scholarship" width="300" />
   <br><br>
   <img src="Certificate/php.jpg" alt="PHP Certificate" width="300" />
+  <img src="Certificate/basic.jpg" alt="OOP" width="300" />
+  <br><br>
+  <img src="Certificate/web.jpg" alt="Web Development" width="300" />
   <img src="Certificate/A2.jpg" alt="A2 Certificate" width="300" />
   <br><br>
   <img src="Certificate/A1.jpg" alt="A1 Certificate" width="300" />
+  
 </p>
 
 # 📊 GitHub Stats
